@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seabattle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/seabattle.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
